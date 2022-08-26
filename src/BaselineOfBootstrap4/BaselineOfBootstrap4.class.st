@@ -38,6 +38,6 @@ BaselineOfBootstrap4 >> seaside: spec [
 			baseline: 'Seaside3'
         	with: [ 
 				spec
-					loads: #('default');
+					loads: #('Core');
 					repository: 'github://SeasideSt/Seaside:master/repository' ]
 ]
